@@ -1,0 +1,55 @@
+body{
+    font-family:Arial, sans-serif;
+    text-align: center;
+    margin:0;
+    padding:0;
+    background-color: #f2f2f2;
+}
+
+img.percyjackson.jpg{
+    max-width: 60%;/*Define a largura máxima da imagem*/
+}
+
+header{
+    background-color:#00b69b;
+    color: #fff;
+    padding: 15px 0;
+}
+
+h1{
+    color:#00b69b;
+}
+
+h2 { 
+ color:#00b69b;
+}
+
+h3{
+    color:#00b69b;
+}
+p{
+    font-size: 18px;
+    margin-bottom:20px;
+    line-height:1.6;
+
+}
+
+.btn-play{
+    display:inline-block;
+    padding:10 px 20 px;
+    background-color:#314743;
+    color: #fff;
+    text-decoration: none;
+    border: radius 10px;
+    transition:background-color 0.3S;
+    margin-bottom: 30px;
+}
+
+.btn-play:hover{
+    background-color:#314743;
+}
+footer{
+    background-color:#314743;
+    color: #fff;
+    padding:15 px 0 ;
+}
